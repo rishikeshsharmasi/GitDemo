@@ -1,2 +1,5 @@
 List of Birds
 
+Peacock
+Pigeon
+Duck
