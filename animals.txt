@@ -2,3 +2,5 @@ List of Animals
 
 Tiger
 Cheetah
+Elephant
+Lion
